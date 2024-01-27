@@ -1,0 +1,10 @@
+## Make a website inspire by memento extension for personal use where you can focus and mesaure the progress.
+
+- Show option to set goals and show those goals in right hand top corner.
+- Use unplash API to show high quality beautiful scenerios as background.
+- Have Pomodoro timer.
+- Have an option to play focus music (instrumental music, guitar sounds) or soothing sound (beach waves, campfire, train, office ASMR). Keep these in loop so it won't stop. Also give an option where one can upload music and play it in loop.
+- Store history of past Pomodoro times in local storage so user can track their past progress (optional)
+
+## Extend idea
+- Create an android app using React Native.
